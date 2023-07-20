@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Loja Virtual utilizando Bootstrap**
 | :label: Tecnologias | HTML, CSS, Bootstrap5
-| :rocket: URL         | https://github.com/Thamyresmya/Loja-virtual
+| :rocket: URL         | https://thamyresmya.github.io/Loja-virtual/Loja-virtual
 
 <br>
 
