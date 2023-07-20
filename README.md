@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de uma loja virtual fictícia utilizando ferramenta Bootstrap na versão 5, HTML e CSS. Aplicando responsividade em imagens e componentes, e a aplicar temas de cores do Bootstrap. Implementação de acessibilidade para leitores de tela e posicionamento de elementos utilizando soluções com Grid e Flexbox do Bootstrap.
+Projeto de uma loja virtual fictícia utilizando Bootstrap na versão 5, HTML e CSS. Aplicando responsividade em imagens e componentes, usando temas de cores do Bootstrap. Implementação de acessibilidade para leitores de tela e posicionamento de elementos utilizando soluções com Grid e Flexbox. 🚀
 
 <br>
 
